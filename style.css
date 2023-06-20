@@ -4,10 +4,10 @@
 }
 body{
     background-color: hsl(52, 30%, 25%);
-    max-height: 600px;
+    max-height: 650px;
 }
 .output{
-    height: 100px;
+    height: 150px;
     background-color: red;
     max-width: 600px;
     margin: 40px auto;
@@ -84,24 +84,24 @@ h1{
     font-size: 20px;
     border-radius: 10px;
 }
-.input2{
+/* .input2{
     margin: 0px 20px;
     width: 90%;
     height: 100%;
-    /* padding: 10px; */
+    padding: 10px;
     font-size: 20px;
     border-radius: 10px;
     display: none;
-}
-.input3{
+} */
+/* .input3{
     margin: 0px 20px;
     width: 90%;
     height: 100%;
-    /* padding: 10px; */
+    padding: 10px;
     font-size: 20px;
     border-radius: 10px;
     display: none;
-}
+} */
 .button1{
     width: 100%;
     height: 40%;
@@ -163,24 +163,24 @@ h1{
     #input2{
         margin: 0px 11px;
     }
-    .inputt{
+    /* .inputt{
         display: none;
-    }
-    .input2{
+    } */
+    /* .input2{
         display: inline-block;
-    }
+    } */
 }
 @media (max-width:253px) {
     #input2{
         margin: 0px 7px;
     }
-    .inputt{
+    /* .inputt{
         display: none;
     }
     .input2{
         display: none;
-    }
-    .input3{
+    } */
+    /* .input3{
         display: inline-block;
-    }
+    } */
 }
